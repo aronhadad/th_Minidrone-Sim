@@ -1,3 +1,4 @@
 # th_Minidrone-Sim
 
-Coming Soon ...
+1. Open: asbQuadcopter.prj
+2. Run: Init_and_Run.m
